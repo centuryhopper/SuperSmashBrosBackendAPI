@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Mario",
+    "final_smash": "Mario Finale",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Mushroom Kingdom"
+  },
+
+  {
+    "name": "Link",
+    "final_smash": "Triforce Slash",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "The Legend of Zelda",
+    "species": "Hylian",
+    "home_world": "Hyrule"
+  },
+
+  {
+    "name": "Samus Aran",
+    "final_smash": "Zero Laser",
+    "gender": "Female",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Metroid",
+    "species": "Human (infused with Chozo and Metroid DNA)",
+    "home_world": "Colony K-2L"
+  },
+  {
+    "name": "Dark Samus",
+    "final_smash": "Phazon Laser",
+    "gender": "Female",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Gamecube, Wii",
+    "universe": "Metroid",
+    "species": "Phazon",
+    "home_world": "None. She was created after the dying Metroid Prime absorbed Samus's Phazon Suit and her DNA"
+  },
+  {
+    "name": "Yoshi",
+    "final_smash": "Stampede",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "Yoshi",
+    "species": "Yoshi",
+    "home_world": "Yoshi's Island"
+  },
+  {
+    "name": "Kirby",
+    "final_smash": "Ultra Sword",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Kirby",
+    "species": "Unknown",
+    "home_world": "Dream Land/Planet Popstar"
+  },
+  {
+    "name": "Fox McCloud",
+    "final_smash": "Team Star Fox",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "The Legend of Zelda",
+    "species": "Fox",
+    "home_world": "Unknown....Maybe Corneria?"
+  },
+  {
+    "name": "Pikachu",
+    "final_smash": "Volt Tackle",
+    "gender": "Varies",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "GameBoy",
+    "universe": "Pokemon",
+    "species": "Mouse",
+    "home_world": "Kanto region"
+  },
+  {
+    "name": "Luigi",
+    "final_smash": "Poltergust G-00",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Mushroom Kingdom"
+  },
+  {
+    "name": "Ness",
+    "final_smash": "PK Starstorm",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "EarthBound",
+    "species": "Human",
+    "home_world": "Onett, Eagleland"
+  },
+  {
+    "name": "Captain Falcon",
+    "final_smash": "Blue Falcon",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "F-Zero",
+    "species": "Human",
+    "home_world": "Port Town"
+  },
+
+  {
+    "name": "Jigglypuff",
+    "final_smash": "Puff Up",
+    "gender": "varies",
+    "appears_in": "Smash 64, Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Balloon",
+    "home_world": "Kanto"
+  },
+  {
+    "name": "Peach",
+    "final_smash": "Peach Blossom",
+    "gender": "Female",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Mushroom Kingdom"
+  },
+  {
+    "name": "Daisy",
+    "final_smash": "Daisy Blossom",
+    "gender": "Female",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Sarasaland"
+  },
+  {
+    "name": "Bowser",
+    "final_smash": "Giga Bowser",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Super Mario",
+    "species": "Koopa",
+    "home_world": "Mushroom Kingdom"
+  },
+  {
+    "name": "Ice Climbers",
+    "final_smash": "Puff Up",
+    "gender": "Male (Popo), Female (Nana)",
+    "appears_in": "Smash Melee, Smash Brawl, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Ice Climber",
+    "species": "Humans",
+    "home_world": "Unknown"
+  },
+  {
+    "name": "Sheik",
+    "final_smash": "Sheikah Dance",
+    "gender": "Female",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 64",
+    "universe": "The Legend of Zelda",
+    "species": "Hylian (disguised as Sheikah)",
+    "home_world": "Hyrule"
+  },
+  {
+    "name": "Princess Zelda",
+    "final_smash": "Triforce of Wisdom",
+    "gender": "Female",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "The Legend of Zelda",
+    "species": "Hylian",
+    "home_world": "Hyrule"
+  },
+  {
+    "name": "Dr. Mario",
+    "final_smash": "Doctor Finale",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System, Game Boy",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Mushroom Kingdom"
+  },
+  {
+    "name": "Pichu",
+    "final_smash": "Volt Tackle",
+    "gender": "varies",
+    "appears_in": "Smash Melee, Smash Ultimate",
+    "console_of_origin": "Game Boy Color",
+    "universe": "Pokemon",
+    "species": "Mouse",
+    "home_world": "Johto"
+  },
+  {
+    "name": "Falco Lombardi",
+    "final_smash": "Team Star Fox",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "Star Fox",
+    "species": "Avain",
+    "home_world": "Maybe Conerneria???"
+  },
+  {
+    "name": "Marth",
+    "final_smash": "Critical Hit",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Famicom",
+    "universe": "Fire Emblem",
+    "species": "Human",
+    "home_world": "Archanea (formerly Altea) (past Archanea timeline)"
+  },
+  {
+    "name": "Lucina",
+    "final_smash": "Critical Hit",
+    "gender": "Female",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Fire Emblem",
+    "species": "Human",
+    "home_world": "Ylisse (alternate future Archanea timeline)"
+  },
+  {
+    "name": "Young Link",
+    "final_smash": "Triforce Slash",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash Ultimate",
+    "console_of_origin": "Nintendo 64",
+    "universe": "The Legend of Zelda",
+    "species": "Hylian",
+    "home_world": "Hyrule"
+  },
+  {
+    "name": "Ganondorf",
+    "final_smash": "Beast Ganon",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 64 (as Ganondorf), Nintendo Entertainment System (as Ganon)",
+    "universe": "The Legend of Zelda",
+    "species": "Gerudo (as Ganondorf), Demon (as Ganon)",
+    "home_world": "Hyrule"
+  },
+  {
+    "name": "Mewtwo",
+    "final_smash": "Psystrike",
+    "gender": "Genderless",
+    "appears_in": "Smash Melee, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Cat",
+    "home_world": "Kanto"
+  },
+  {
+    "name": "Roy",
+    "final_smash": "Critical Hit",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Gamecube, Game Boy Advance (Fire Emblem series)",
+    "universe": "Fire Emblem",
+    "species": "Human",
+    "home_world": "Elibe"
+  },
+  {
+    "name": "Chrom",
+    "final_smash": "Awakening Aether",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Fire Emblem",
+    "species": "Human",
+    "home_world": "Ylisse (future-present Archanea timeline)"
+  },
+  {
+    "name": "Game & Watch",
+    "final_smash": "Octopus",
+    "gender": "Male",
+    "appears_in": "Smash Melee, Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game & Watch",
+    "universe": "Game & Watch",
+    "species": "Monochrome",
+    "home_world": "Superflat World"
+  },
+  {
+    "name": "Meta Knight",
+    "final_smash": "Darkness Illusion",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Kirby",
+    "species": "Kirby's species (possibly)",
+    "home_world": "Dream Land"
+  },
+  {
+    "name": "Pit",
+    "final_smash": "Lightning Chariot",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Kid Icarus",
+    "species": "Angel",
+    "home_world": "Angel Land"
+  },
+  {
+    "name": "Dark Pit",
+    "final_smash": "Dark Pit Staff",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Kid Icarus",
+    "species": "Angel",
+    "home_world": "None, created by Pit from Pandora's mirror"
+  },
+  {
+    "name": "Zero Suit Samus",
+    "final_smash": "Zero Laser",
+    "gender": "Female",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy Advance",
+    "universe": "Metroid",
+    "species": "Human",
+    "home_world": "K-2L (birthplace), Zebes (raised)"
+  }
+]
