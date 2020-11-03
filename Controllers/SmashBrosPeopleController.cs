@@ -6,16 +6,18 @@ using AspNetCoreWebAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using AspNetCoreWebAPI.Data;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace AspNetCoreWebAPI.Controllers
 {
+    // api/SmashBrosPeople
     [Route("api/[controller]")]
     [ApiController]
     public class SmashBrosPeopleController : ControllerBase
     {
         private readonly ApplicationDbContext db;
 
-        // api/SmashBrosPeople
+        // dependency injection
         public SmashBrosPeopleController(ApplicationDbContext db)
         {
             this.db = db;
@@ -24,22 +26,43 @@ namespace AspNetCoreWebAPI.Controllers
         [HttpGet]
         public IActionResult GetPeoples()
         {
-            return Ok(db?.PeopleModels?.ToList());
+            return Ok(db?.SmashBrosModels?.ToList());
         }
 
         // can post one smashbrospeoplemodel object or a list of objects
+        // [HttpPost]
+        // public async Task<IActionResult> AddSmashBrosPerson([FromBody] SmashBrosPeopleModel s)
+        // {
+        //     if (!ModelState.IsValid)
+        //     {
+        //         return new JsonResult("Error while creating new smash bros person(s)");
+        //     }
+
+        //     db.SmashBrosModels.Add(s);
+        //     await db.SaveChangesAsync();
+
+        //     return new JsonResult("The smash bros person(s) was created successfully");
+        // }
+
         [HttpPost]
-        public async Task<IActionResult> AddSmashBrosPerson([FromBody] SmashBrosPeopleModel s)
+        public async Task<IActionResult> AddSmashBrosPerson([FromBody] List<SmashBrosPeopleModel> s)
         {
             if (!ModelState.IsValid)
             {
-                return new JsonResult("Error while creating new smash bros person");
+                return new JsonResult("Error while creating new smash bros person(s)");
             }
 
-            db.PeopleModels.Add(s);
+            if (s is List<SmashBrosPeopleModel>)
+            {
+                int n = s.Count;
+                for (int i = 0; i < n; ++i)
+                {
+                    db.SmashBrosModels.Add(s[i]);
+                }
+            }
             await db.SaveChangesAsync();
 
-            return new JsonResult("The smash bros person was created successfully");
+            return new JsonResult("The smash bros person(s) was created successfully");
         }
 
         [HttpPut("{id}")]
@@ -54,7 +77,7 @@ namespace AspNetCoreWebAPI.Controllers
             }
             else
             {
-                db.PeopleModels.Update(s);
+                db.SmashBrosModels.Update(s);
                 await db.SaveChangesAsync();
                 return new JsonResult("smash bros person was updated successfully");
             }
@@ -63,61 +86,18 @@ namespace AspNetCoreWebAPI.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteSmashBrosPerson([FromRoute] int id)
         {
-            var findStarWarsPerson = await db.PeopleModels.FindAsync(id);
+            var findStarWarsPerson = await db.SmashBrosModels.FindAsync(id);
             if (findStarWarsPerson == null)
             {
                 return NotFound();
             }
             else
             {
-                db.PeopleModels.Remove(findStarWarsPerson);
+                db.SmashBrosModels.Remove(findStarWarsPerson);
                 await db.SaveChangesAsync();
                 return new JsonResult("smash bros person was deleted successfully");
             }
         }
-
-
-
-
-        #region local way
-        // StarWarsPeopleService s;
-
-        // public StarWarsPeopleController(StarWarsPeopleService s)
-        // {
-        //     this.s = s;
-        // }
-
-        // [HttpGet]
-        // public ActionResult Get()
-        // {
-        //     if (this.s.IsEmpty)
-        //     {
-        //         return Ok("the list is empty");
-        //     }
-        //     return Ok(this.s.GetList());
-        // }
-
-        // [HttpPost]
-        // public ActionResult Post(StarWarsPeopleModel s)
-        // {
-        //     this.s.AddToPeoples(s);
-        //     return Ok("added");
-        // }
-
-        // [HttpPut]
-        // public ActionResult Put(int idx, StarWarsPeopleModel m)
-        // {
-        //     this.s.UpdateList(idx, m);
-        //     return Ok();
-        // }
-
-        // [HttpDelete("{id}")]
-        // public ActionResult Delete(int idx)
-        // {
-        //     this.s.RemoveFromPeoples(idx);
-        //     return Ok();
-        // }
-        #endregion
 
         public static async Task<SmashBrosPeopleModel> FetchPeopleFromOnline(int id = 0)
         {

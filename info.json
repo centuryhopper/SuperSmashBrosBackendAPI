@@ -9,6 +9,16 @@
     "species": "Human",
     "home_world": "Mushroom Kingdom"
   },
+  {
+    "name": "Donkey Kong",
+    "final_smash": "Jungle Rush",
+    "gender": "Male",
+    "appears_in": "Smash 64, Smash Melee, SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Donkey Kong",
+    "species": "Kong",
+    "home_world": "DK Island"
+  },
 
   {
     "name": "Link",
@@ -331,5 +341,15 @@
     "universe": "Metroid",
     "species": "Human",
     "home_world": "K-2L (birthplace), Zebes (raised)"
+  },
+  {
+    "name": "Wario",
+    "final_smash": "Wario Man",
+    "gender": "Male",
+    "appears_in": "SmashBrawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Wario",
+    "species": "Human",
+    "home_world": "Diamond City"
   }
 ]
