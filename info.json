@@ -351,5 +351,115 @@
     "universe": "Wario",
     "species": "Human",
     "home_world": "Diamond City"
+  },
+  {
+    "name": "Solid Snake",
+    "final_smash": "Covering Fire",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash Ultimate",
+    "console_of_origin": "MSX2",
+    "universe": "Metal Gear",
+    "species": "Human",
+    "home_world": "United States of America"
+  },
+  {
+    "name": "Ike",
+    "final_smash": "Great Aether",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo GameCube",
+    "universe": "Fire Emblem",
+    "species": "Beorc",
+    "home_world": "Tellius"
+  },
+  {
+    "name": "Pokemon Trainer",
+    "final_smash": "Triple Finish",
+    "gender": "Varies",
+    "appears_in": "Smash Brawl, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Human",
+    "home_world": "Varies"
+  },
+  {
+    "name": "Squirtle",
+    "final_smash": "check \"pokemon trainer\" for details",
+    "gender": "Varies",
+    "appears_in": "Smash Brawl, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Tiny Turtle",
+    "home_world": "Kanto"
+  },
+  {
+    "name": "Ivysaur",
+    "final_smash": "check \"pokemon trainer\" for details",
+    "gender": "Varies",
+    "appears_in": "Smash Brawl, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Seed",
+    "home_world": "Kanto"
+  },
+  {
+    "name": "Charizard",
+    "final_smash": "check \"pokemon trainer\" for details",
+    "gender": "Varies",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Pokemon",
+    "species": "Flame Dragon",
+    "home_world": "Kanto"
+  },
+  {
+    "name": "Diddy Kong",
+    "final_smash": "Rocketbarrel Barrage",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "Donkey Kong",
+    "species": "Kong",
+    "home_world": "DK Island"
+  },
+  {
+    "name": "Lucas",
+    "final_smash": "PK Starstorm",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy Advance",
+    "universe": "EarthBound",
+    "species": "Human",
+    "home_world": "Tazmily Village, Nowhere Islands"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "final_smash": "Super Sonic",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade (cameo), Sega Genesis",
+    "universe": "Sonic",
+    "species": "Hedgehog",
+    "home_world": "Earth/Mobius"
+  },
+  {
+    "name": "King Dedede",
+    "final_smash": "Dede-Rush",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy",
+    "universe": "Kirby",
+    "species": "Bird (possibly a penguin)",
+    "home_world": "DreamLand"
+  },
+  {
+    "name": "Olimar",
+    "final_smash": "End of Day",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo GameCube",
+    "universe": "Pikmin",
+    "species": "Hocotatian",
+    "home_world": "Hocotate"
   }
 ]
