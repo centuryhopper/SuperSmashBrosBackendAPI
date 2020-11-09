@@ -461,5 +461,212 @@
     "universe": "Pikmin",
     "species": "Hocotatian",
     "home_world": "Hocotate"
+  },
+  {
+    "name": "Lucario",
+    "final_smash": "Aura Storm",
+    "gender": "Varies",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo DS",
+    "universe": "Pokemon",
+    "species": "Aura",
+    "home_world": "Hoenn (Sir Aaron’s), Sinnoh (commonly)"
+  },
+  {
+    "name": "R.O.B.",
+    "final_smash": "Guided Robo Beam",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "R.O.B.",
+    "species": "R.O.B.",
+    "home_world": "Real world, Isle of the Ancients (The Subspace Emissary)"
+  },
+  {
+    "name": "Toon Link",
+    "final_smash": "Triforce Slash",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Game Boy Advance (art style), Nintendo GameCube (character)",
+    "universe": "The Legend of Zelda",
+    "species": "Hylian",
+    "home_world": "Outset Island"
+  },
+
+  {
+    "name": "Wolf O'Donnell",
+    "final_smash": "Team Star Wolf",
+    "gender": "Male",
+    "appears_in": "Smash Brawl, Smash Ultimate",
+    "console_of_origin": "Nintendo 64 (Originally planned for the Super Nintendo Entertainment System)",
+    "universe": "Star Fox",
+    "species": "Wolf",
+    "home_world": "Venom"
+  },
+
+  {
+    "name": "Villager",
+    "final_smash": "Dream Home",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 64",
+    "universe": "Animal Crossing",
+    "species": "Human",
+    "home_world": "Animal Crossing Town"
+  },
+
+  {
+    "name": "Mega Man",
+    "final_smash": "Mega Legends",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Mega Man",
+    "species": "Half-Human, Half-Robot",
+    "home_world": "Unknown"
+  },
+  {
+    "name": "Wii Fit Trainer",
+    "final_smash": "Wii Fit",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Wii Fit",
+    "species": "Human",
+    "home_world": "Wii Fit Studio"
+  },
+
+  {
+    "name": "Rosalina",
+    "final_smash": "Grand Star",
+    "gender": "Female",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Mario",
+    "species": "Human",
+    "home_world": "Mushroom Kingdom"
+  },
+
+  {
+    "name": "Little Mac",
+    "final_smash": "Giga Mac",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Punch-Out!!",
+    "species": "Human",
+    "home_world": "The Bronx, New York"
+  },
+  {
+    "name": "Greninja",
+    "final_smash": "Secret Ninja Attack",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Pokemon",
+    "species": "Frog",
+    "home_world": "Kalos"
+  },
+  {
+    "name": "Mii Brawler",
+    "final_smash": "Omega Blitz",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Super Smash Bros.",
+    "species": "Mii",
+    "home_world": "Mii Plaza"
+  },
+  {
+    "name": "Mii Gunner",
+    "final_smash": "Full Blast",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Super Smash Bros.",
+    "species": "Mii",
+    "home_world": "Mii Plaza"
+  },
+  {
+    "name": "Mii Swordfighter",
+    "final_smash": "Final Edge",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Super Smash Bros.",
+    "species": "Mii",
+    "home_world": "Mii Plaza"
+  },
+
+  {
+    "name": "Palutena",
+    "final_smash": "Black Hole Laser",
+    "gender": "Female",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Kid Icarus",
+    "species": "Goddess",
+    "home_world": "Angel Land"
+  },
+  {
+    "name": "Pac-Man",
+    "final_smash": "Super Pac-Man",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Pac-Man",
+    "species": "Pac-Person",
+    "home_world": "Pac-Land"
+  },
+  {
+    "name": "Robin",
+    "final_smash": "Pair Up",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Fire Emblem",
+    "species": "Human",
+    "home_world": "Plegia (future-present Archanea timeline)"
+  },
+  {
+    "name": "Shulk",
+    "final_smash": "Chain Attack",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Wii",
+    "universe": "Xenoblade",
+    "species": "Homs",
+    "home_world": "Bionis"
+  },
+
+  {
+    "name": "Boswer Jr.",
+    "final_smash": "Shadow Mario Paint",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Gamecube",
+    "universe": "Super Mario",
+    "species": "Koopa",
+    "home_world": "Mushroom Kingdom"
+  },
+  {
+    "name": "Duck Hunt",
+    "final_smash": "NES Zapper Posse",
+    "gender": "Male (dog), Unknown (duck), Varies (hunter)",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Duck Hunt",
+    "species": "Dog (dog), Duck (duck), Human (hunter)",
+    "home_world": "Earth"
+  },
+  {
+    "name": "Ryu",
+    "final_smash": "Shin Shoryuken",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Street Fighter",
+    "species": "Human",
+    "home_world": "Japan"
   }
 ]
