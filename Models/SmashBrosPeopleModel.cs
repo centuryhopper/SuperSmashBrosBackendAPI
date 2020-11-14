@@ -13,9 +13,7 @@ namespace AspNetCoreWebAPI.Models
     public class SmashBrosPeopleModel
     {
         // must have get and set when declaring
-
         // create a migration: dotnet ef migrations add [name]
-
         // add model to database: dotnet ef database update [name of your migration]
 
         // primary key

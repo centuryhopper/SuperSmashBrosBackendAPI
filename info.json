@@ -638,7 +638,6 @@
     "species": "Homs",
     "home_world": "Bionis"
   },
-
   {
     "name": "Boswer Jr.",
     "final_smash": "Shadow Mario Paint",
@@ -668,5 +667,195 @@
     "universe": "Street Fighter",
     "species": "Human",
     "home_world": "Japan"
+  },
+  {
+    "name": "Ken",
+    "final_smash": "Shippu Jinraikyaku and Shinryuken",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Arcade",
+    "universe": "Street Fighter",
+    "species": "Human",
+    "home_world": "U.S.A."
+  },
+  {
+    "name": "Cloud Strife",
+    "final_smash": "Omnislash",
+    "gender": "Male",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "PlayStation",
+    "universe": "Final Fantasy",
+    "species": "Human (infused with Jenova cells and Mako)",
+    "home_world": "Gaia"
+  },
+  {
+    "name": "Corrin",
+    "final_smash": "Torrential Roar",
+    "gender": "Varies",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Fire Emblem",
+    "species": "Manakete",
+    "home_world": "Valla"
+  },
+  {
+    "name": "Bayonetta",
+    "final_smash": "Infernal Climax",
+    "gender": "Female",
+    "appears_in": "Smash for Wii U/3DS, Smash Ultimate",
+    "console_of_origin": "Xbox 360/PlayStation 3",
+    "universe": "Bayonetta",
+    "species": "Human",
+    "home_world": "Vigrid"
+  },
+  {
+    "name": "Inklings",
+    "final_smash": "Killer Wail",
+    "gender": "Varies",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Wii U",
+    "universe": "Splatoon",
+    "species": "Inkling",
+    "home_world": "Inkopolis"
+  },
+  {
+    "name": "Ridley",
+    "final_smash": "Plasma Scream",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Metroid",
+    "species": "Unknown",
+    "home_world": "Zebes"
+  },
+  {
+    "name": "Simon Belmont",
+    "final_smash": "Grand Cross",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Castlevania",
+    "species": "Human",
+    "home_world": "Unknown"
+  },
+  {
+    "name": "Richter Belmont",
+    "final_smash": "Grand Cross",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "PC Engine (TurboGrafx-16)",
+    "universe": "Castlevania",
+    "species": "Human",
+    "home_world": "Unknown"
+  },
+  {
+    "name": "King K. Rool",
+    "final_smash": "Blast-O-Matic",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Super Nintendo Entertainment System",
+    "universe": "Donkey Kong",
+    "species": "Kremling",
+    "home_world": "Unknown"
+  },
+  {
+    "name": "Isabelle",
+    "final_smash": "Dream Town Hall",
+    "gender": "Female",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Animal Crossing",
+    "species": "Dog (Shih Tzu)",
+    "home_world": "Animal Crossing Town"
+  },
+  {
+    "name": "Incineroar",
+    "final_smash": "Max Malicious Moonsault",
+    "gender": "Varies",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo 3DS",
+    "universe": "Pokemon",
+    "species": "Heel",
+    "home_world": "Alola"
+  },
+  {
+    "name": "Piranha Plant",
+    "final_smash": "Petey Pirahna",
+    "gender": "None",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Entertainment System",
+    "universe": "Mario",
+    "species": "Mushroom Kingdom",
+    "home_world": "U.S.A."
+  },
+  {
+    "name": "Joker",
+    "final_smash": "All-Out Attack",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "PlayStation 3, PlayStation 4",
+    "universe": "Persona",
+    "species": "Human",
+    "home_world": "Tokyo, Japan"
+  },
+  {
+    "name": "Heroes",
+    "final_smash": "Gigaslash",
+    "gender": "Male (Eleven and Eight),Male or Female (Arusu and Solo)",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Famicom / Nintendo Entertainment System (general concept, Erdrick and Solo), PlayStation 2 Eight), Nintendo 3DS, PlayStation 4 (Luminary)",
+    "universe": "Dragon Quest",
+    "species": "Human (Luminary and Erdrick), Human / Zenithian hybrid (Solo), Human / Dragovian hybrid (Eight)",
+    "home_world": "Aliahan (Erdrick), Unnamed secret village (Solo), Trodain (Eight), Cobblestone (Luminary)"
+  },
+  {
+    "name": "Banjo-Kazooie",
+    "final_smash": "The Mighty Jinjonator",
+    "gender": "Male (Banjo), Female (Kazooie)",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo 64",
+    "universe": "Banjo-Kazooie",
+    "species": "Bear (Banjo), Red-Crested Breegull (Kazooie)",
+    "home_world": "Spiral Mountain (Banjo), Breegull Beach (birthplace), Spiral Mountain (current residence) (Kazooie)"
+  },
+  {
+    "name": "Terry Bogard",
+    "final_smash": "Triple Wolf",
+    "gender": "Male",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Neo Geo MVS Arcade",
+    "universe": "Fatal Fury, The King of Fighters",
+    "species": "Human",
+    "home_world": "South Town, U.S.A."
+  },
+  {
+    "name": "Byleth",
+    "final_smash": "Progenitor God Ruptured Heaven",
+    "gender": "Male or Female (chosen by the player)",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Switch",
+    "universe": "Fire Emblem",
+    "species": "Demigod",
+    "home_world": "Fódlan"
+  },
+  {
+    "name": "Min Min",
+    "final_smash": "ARMS Rush",
+    "gender": "Female",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "Nintendo Switch",
+    "universe": "ARMS",
+    "species": "Human",
+    "home_world": "Mintendo Noodle House"
+  },
+  {
+    "name": "Steve and Alex",
+    "final_smash": "House of Boom",
+    "gender": "Male (Steve), Female (Alex)",
+    "appears_in": "Smash Ultimate",
+    "console_of_origin": "PC",
+    "universe": "Minecraft",
+    "species": "Human",
+    "home_world": "Overworld"
   }
 ]

@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using AspNetCoreWebAPI.Models;
 using Microsoft.EntityFrameworkCore;
 

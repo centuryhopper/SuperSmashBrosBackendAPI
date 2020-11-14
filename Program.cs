@@ -1,34 +1,28 @@
-using System.Threading;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
-using System.Net;
-using System.IO;
-using Newtonsoft.Json;
-using AspNetCoreWebAPI.Services;
-using AspNetCoreWebAPI.Controllers;
-using AspNetCoreWebAPI.Models;
-using Microsoft.EntityFrameworkCore.Design;
 
 
 namespace AspNetCoreWebAPI
 {
     public class Program
     {
-        static void print(dynamic msg) => System.Console.WriteLine(msg);
+        static void p(dynamic m) => Console.WriteLine(m);
 
         public static async Task Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            // CreateHostBuilder(args).Build().Run();
 
             // initialize API caller for getting online requests
             // APiHelper.InitializeClient();
+
+            Console.ForegroundColor = ConsoleColor.Red;
+
+            p("hi");
+            Console.ResetColor();
+
 
             #region star wars species
 
